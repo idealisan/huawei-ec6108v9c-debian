@@ -1,0 +1,9 @@
+[submodule "ec6108v9c-linux-kernel"]
+	path = ec6108v9c-linux-kernel
+	url = git@github.com:loonpn/ec6108v9c-linux-kernel.git
+[submodule "HiSTBLinuxV100R005C00SPC060"]
+	path = HiSTBLinuxV100R005C00SPC060
+	url = git@github.com:07bug/HiSTBLinuxV100R005C00SPC060.git
+[submodule "hi3798mv100"]
+	path = hi3798mv100
+	url = git@github.com:glinuz/hi3798mv100.git
